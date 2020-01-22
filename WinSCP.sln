@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinSCPSample", "WinSCPSample\WinSCPSample.csproj", "{8E4FE4D0-2AFF-48A2-9072-C1F86F812718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinSCPClient", "WinSCPClient\WinSCPClient.csproj", "{FA990BE7-F342-4502-BA74-55704391CD29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E4FE4D0-2AFF-48A2-9072-C1F86F812718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4FE4D0-2AFF-48A2-9072-C1F86F812718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4FE4D0-2AFF-48A2-9072-C1F86F812718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4FE4D0-2AFF-48A2-9072-C1F86F812718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA990BE7-F342-4502-BA74-55704391CD29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA990BE7-F342-4502-BA74-55704391CD29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA990BE7-F342-4502-BA74-55704391CD29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA990BE7-F342-4502-BA74-55704391CD29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
